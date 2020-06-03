@@ -1,3 +1,5 @@
+On the workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1724758621
+
 This addon allows you to create waypoints all players on the server can see through walls.
 
 
