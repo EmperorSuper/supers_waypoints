@@ -1,7 +1,7 @@
 {
 	"title"		:	"Super's Waypoints",
-	"type"		:	"Entity",
-	"tags"		:	[ "roleplay", "fun" ],
+	"type"		:	"entity",
+	"tags"		:	[ "roleplay" ],
 	"ignore"	:
 	[
 		"*.psd",
