@@ -1,0 +1,11 @@
+{
+	"title"		:	"Super's Waypoints",
+	"type"		:	"Entity",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
